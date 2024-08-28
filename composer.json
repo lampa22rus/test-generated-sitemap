@@ -1,0 +1,17 @@
+{
+    "name": "lampa/test-repo",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lampa",
+            "email": "11857@bk.ru"
+        }
+    ],
+    "require": {
+        "lampa22rus/generated-sitemap": "^1.0"
+    }
+}
