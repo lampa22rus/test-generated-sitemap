@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b77268fa3d6e6378c860e63d50a62e9f",
+    "packages": [
+        {
+            "name": "lampa22rus/generated-sitemap",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lampa22rus/generated-sitemap.git",
+                "reference": "cdb3d6fce8b5a7f7e3860b4b8e4ecb486f5161cb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lampa22rus/generated-sitemap/zipball/cdb3d6fce8b5a7f7e3860b4b8e4ecb486f5161cb",
+                "reference": "cdb3d6fce8b5a7f7e3860b4b8e4ecb486f5161cb",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Lampa\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andrey Grischenko",
+                    "email": "11857@bk.ru"
+                }
+            ],
+            "description": "Класс для генерации сайтмапа.",
+            "homepage": "https://github.com/lampa22rus/generated-sitemap",
+            "support": {
+                "issues": "https://github.com/lampa22rus/generated-sitemap/issues",
+                "source": "https://github.com/lampa22rus/generated-sitemap/tree/v1.0.1"
+            },
+            "time": "2024-08-29T08:40:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
